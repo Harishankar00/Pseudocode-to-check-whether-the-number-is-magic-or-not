@@ -1,0 +1,1 @@
+# Pseudocode-to-check-whether-the-number-is-magic-or-not
